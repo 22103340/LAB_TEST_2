@@ -1,0 +1,13 @@
+Even Numbered Systems
+You have a CSV file named “New Institutes” containing details of applicants who have applied
+for Institute approval.
+Perform the following tasks using Pandas:
+1. Design a MongoDB schema to store file details in a table and store it into Pandas Data
+frame.
+2. Populate the table with the same values as provided in CSV file.
+3. Find the missing values in each field. If there is any missing value, try substituting it using
+appropriate way.
+4. Write a query in MongoDB to find out how many applications are from each state.
+5. Apply Naive bayes and Linear SVM to predict possible approval of these Institutes. Also
+compare the performance metrics of Recall and F1 score.
+6. Depict a relationship between region and program using bar chart
